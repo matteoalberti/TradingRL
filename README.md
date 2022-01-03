@@ -13,3 +13,5 @@ Just a toy repo for playing on trading data with deep and reinforcement learning
 # Setup MLFlow
 
 ```
+
+![](https://mlflow.org/docs/latest/_images/scenario_1.png)
